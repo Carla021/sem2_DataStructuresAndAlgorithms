@@ -1,0 +1,3 @@
+C:/Users/Carla/Desktop/Facultate/An1/Sem 2/Data Structures and Algorithms/tema_lab2/cmake-build-debug/CMakeFiles/tema_lab2.dir
+C:/Users/Carla/Desktop/Facultate/An1/Sem 2/Data Structures and Algorithms/tema_lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Carla/Desktop/Facultate/An1/Sem 2/Data Structures and Algorithms/tema_lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
